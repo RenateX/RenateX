@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Renato Palavecino</h1>
-<h3 align="center">A passionate Microcontrollers developer from Argentina</h3>
+<h3 align="center">A passionate IT-Trainer and Developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renatex&label=Profile%20views&color=0e75b6&style=flat" alt="renatex" /> </p>
 
-- 🔭 I’m currently working on [ZAUG gGmbH](www.zaug.de)
+- 🔭 I’m currently working on [IAD GmbH](www.iad.de)
 
-- 🌱 I’m currently learning **C/C++, Python, Ansible**
+- 🌱 I’m currently learning **AWS, Python and Insfractucture as a Code**
 
 - 💬 Ask me about **GNU/Linux, Arduino, Raspberry Pi**
 
